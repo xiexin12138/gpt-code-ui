@@ -1,5 +1,0 @@
-[phases.build]
-cmds = ['pip install gpt-code-ui']
-
-[start]
-cmd = 'gptcode'
