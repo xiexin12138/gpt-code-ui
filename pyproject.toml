@@ -1,2 +1,3 @@
-pip install gpt-code-ui
-gptcode
+[[packages]]
+name = "gpt-code-ui"
+version = "latest"
